@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[Hello Microverse]** is a...
+**[Hello Microverse]** is a simple project with a heading containing Hello Microverse!
 
 ## 🛠 Built With <a name="built-with"></a>
 
